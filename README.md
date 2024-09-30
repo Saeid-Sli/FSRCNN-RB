@@ -1,4 +1,4 @@
 # ESResNet
-# Boosting Rock Image Resolution using Enhanced Super-Resolution Residual Network: ESResNet
+## Boosting Rock Image Resolution using Enhanced Super-Resolution Residual Network: ESResNet
 
 A robust architecture called Enhanced Super-Resolution Residual Network (ESResNet)which incorperates residual blocks into Fast Super-Resolution Convolutional Neural Networks (FSRCNNs). To improve the network performance, the depth of convolutional layers in the network as well as the number of filters were increased. The results show that the ESResNet outperforms the conventional FSRCNN in terms of resolution enhancement. For example, compared to the conventional FSRCNN and bicubic interpolation (BC) respectively, it provides better average Peak Signal-to-Noise Ratio (PSNR) value for the reconstructed images. Furthermore, the petrophysical properties (i.e.., porosity and permeability) of the digital reconstructed twins by ESResNet are much closer to the GT images. This finding highlights the superiority of the ESResNet approach in accurately capturing the intricate details of digital rocks, thereby enhancing the reliability of subsequent petrophysical analysis.
